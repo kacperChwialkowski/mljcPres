@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Generative Adversarial Networks}{3}{0}{1}
+\beamer@sectionintoc {2}{Training generative neural networks via Maximum Mean Discrepancy optimization}{10}{0}{2}
+\beamer@sectionintoc {3}{Deep Mean Maps, digression}{15}{0}{3}
+\beamer@sectionintoc {4}{Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks}{17}{0}{4}
+\beamer@sectionintoc {5}{Resluts}{22}{0}{5}
